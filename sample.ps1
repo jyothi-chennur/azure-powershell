@@ -1,0 +1,1 @@
+Get-AzStorageAccount -ResourceGroupName learning
